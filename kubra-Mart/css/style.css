@@ -1169,7 +1169,7 @@ p.Criteria {
 
 .accordion-button:not(.collapsed)::after {
     transform: rotate(-180deg);
-    background-image: url(/img/down.png);
+    background-image: url(/img//down.png);
 }
 
 .accordion-button {
