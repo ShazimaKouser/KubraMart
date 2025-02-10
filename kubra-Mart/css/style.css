@@ -970,7 +970,7 @@
 }
 
 .footer .footer-item a {
-    line-height: 35px;
+    line-height: 25px;
     color: white;
     transition: 0.5s;
 }
@@ -1101,7 +1101,7 @@ p.Criteria {
 .bg-breadcrumb {
     position: relative;
     overflow: hidden;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/Investa-1.0.0/img/banner.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/img/banner.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1162,7 +1162,7 @@ p.Criteria {
     height: 1.25rem;
     margin-left: auto;
     content: "";
-    background-image: url(/Investa-1.0.0/img/down.png);
+    background-image: url(/img/down.png);
     background-repeat: no-repeat;
     background-size: 1.25rem;
     transition: transform .2s ease-in-out;
@@ -1228,7 +1228,9 @@ img.most-faq {
     font-size: 35px;
     color: #6b2d56;
 }
-
+img.Eligibility {
+    width: 14%;
+}
 
 /* media queries */
 @media (max-width: 768px) {
