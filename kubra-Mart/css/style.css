@@ -1,5 +1,4 @@
-/*** Spinner Start ***/
-/*** Spinner ***/
+
 #spinner {
     opacity: 0;
     visibility: hidden;
@@ -1170,7 +1169,7 @@ p.Criteria {
 
 .accordion-button:not(.collapsed)::after {
     transform: rotate(-180deg);
-    background-image: url(/Investa-1.0.0/img/down.png);
+    background-image: url(/img/down.png);
 }
 
 .accordion-button {
